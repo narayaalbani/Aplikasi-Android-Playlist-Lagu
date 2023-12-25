@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Playlist Lagu</string>
+
+    <string name="title">Judul Lagu</string>
+    <string name="artist">Nama Artis</string>
+    <string name="detail">Detail Lagu</string>
+    <string name="release">Rilis Lagu</string>
+
+    <string name="profile">Profil</string>
+    <integer-array name="photo_profile">
+        <item>@drawable/photo_profile</item>
+    </integer-array>
+    <string name="name">Naraya Albani</string>
+    <string name="email">naraya.albani@gmail.com</string>
+    <string name="title_detail_profile">Kontak Personal:\n\nX \nInstagram \nLinkedIn \nDicoding </string>
+    <string name="detail_profile">\n \n@narayaalbani \n@narayaalbani \nNaraya Albani \nNaraya Albani</string>
+</resources>
